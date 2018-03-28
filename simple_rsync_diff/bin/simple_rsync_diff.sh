@@ -1,7 +1,7 @@
 #!/bin/bash
 # 
 # Backup do servidor XXXXX
-# Responsavel : Mike Tesliuk (mike@wsu.com.br)
+# Responsavel : Mike Tesliuk (mike@brdsoft.com.br)
 
 SERVIDOR=192.168.1.200
 MODULO=('etc' 'home')
