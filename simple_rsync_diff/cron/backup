@@ -1,5 +1,4 @@
 MAILTO=root
 SHELL=/bin/bash
 PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
-37 20 * * * root /home/backup/bin/backup_cerebro.sh 
 37 20 * * * root /home/backup/bin/backup_otrs.sh
